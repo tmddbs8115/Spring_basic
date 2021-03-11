@@ -16,7 +16,7 @@ public class MysqlTest {
 	private final String URL = "jdbc:mysql://127.0.0.1:3306/ict3"
 			+ "?useSSL=false&serverTimezone=UTC";
 	
-	private final String USER = "root2";
+	private final String USER = "root";
 	private final String PW = "1111";
 	
 	@Test
